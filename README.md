@@ -50,6 +50,10 @@ wget 'https://raw.githubusercontent.com/rabst/LLMs-from-scratch/main/ch02/01_mai
 Users have the option of reading the code via their chosen IDE and the cloned
 repo, or by using the project's [docs](https://docs.rs/llms-from-scratch-rs/latest/llms_from_scratch_rs/).
 
+For an architecture-aware learning path that maps this Rust/`candle` port to a
+local NL-query system, see
+[`Docs/LLMS_FROM_SCRATCH_RS_TO_NL_QUERY_ARCHITECTURE.md`](Docs/LLMS_FROM_SCRATCH_RS_TO_NL_QUERY_ARCHITECTURE.md).
+
 NOTE: The import style used in all of the `examples` and `exercises` modules are
 not by convention. Specifically, relevant imports are made under the `main()` method
 of every `Example` and `Exercise` implementation. This is done for educational
