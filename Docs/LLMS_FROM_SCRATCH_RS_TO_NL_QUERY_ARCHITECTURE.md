@@ -1568,6 +1568,8 @@ It teaches the Rust/`candle` model-building substrate you need before those arch
 [eg-apdxe-06]: ../src/examples/apdx_e.rs#L375
 [eg-apdxe-07]: ../src/examples/apdx_e.rs#L512
 [sym-selfattentionv1]: ../src/listings/ch03.rs#L25
+[sym-selfattentionv2]: ../src/listings/ch03.rs#L88
+[sym-causalattention]: ../src/listings/ch03.rs#L149
 [sym-alpacaformatter]: ../src/listings/ch07/mod.rs#L121
 [sym-phi3formatter]: ../src/listings/ch07/mod.rs#L140
 [sym-instructiondataset]: ../src/listings/ch07/mod.rs#L187
